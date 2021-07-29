@@ -1,4 +1,4 @@
-#Airport Challenge - in Python
+##Airport Challenge - in Python
 
 Translating Makers Airport challenge into Python in order to familiarise with the language and revisit the fundamentals of programming, including testing. 
 
